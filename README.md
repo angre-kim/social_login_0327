@@ -125,5 +125,6 @@ strings.xml 에서
 ```
 
 
-![Screenshot_1585284176](https://user-images.githubusercontent.com/53202507/77722470-2aae5d00-7031-11ea-8035-dd956f6b91aa.png)
+![00000Screenshot_1585284176](https://user-images.githubusercontent.com/53202507/77722649-b0caa380-7031-11ea-97ac-cddad1ff319e.jpg)
+
 
