@@ -1,0 +1,8 @@
+<resources>
+    <string name="client_id">QK96b7470Q9DprIPNVXK</string>
+    <string name="client_secret">0v1l9jTQXx</string>
+    <string name="client_name">flutter_naverlogin</string>
+    <string name="app_name">testfacebooklogin0310</string>
+    <string name="facebook_app_id">518800681872011</string>
+    <string name="fb_login_protocol_scheme">fb518800681872011</string>
+</resources>
