@@ -48,7 +48,7 @@ class LoginPage extends StatelessWidget {
                                   borderSide:
                                       BorderSide(color: Color(0xFFe5e5e5))),
                               suffixIcon: Icon(Icons.person),
-                              hintText: "UserName"),
+                              hintText: "아이디"),
                         ),
                         SizedBox(
                           height: 30.0,
@@ -63,7 +63,7 @@ class LoginPage extends StatelessWidget {
                                   borderSide: BorderSide(
                                       color: Color(0xFFe5e5e5), width: 2.0)),
                               suffixIcon: Icon(Icons.person),
-                              hintText: "Password"),
+                              hintText: "비밀번호"),
                         ),
                         SizedBox(
                           height: 20.0,
@@ -75,7 +75,7 @@ class LoginPage extends StatelessWidget {
                             height: 50.0,
                             color: Color(0xFF00a651),
                             child: Text(
-                              "로그인",
+                              "누르지 마",
                               style: TextStyle(
                                   color: Colors.white, fontSize: 20.0),
                             ),
@@ -92,7 +92,7 @@ class LoginPage extends StatelessWidget {
                             height: 50.0,
                             color: Color(0xFF00a651),
                             child: Text(
-                              "카카오 로그인",
+                              "카카오 로그인(안되네)",
                               style: TextStyle(
                                   color: Colors.white, fontSize: 20.0),
                             ),
@@ -139,14 +139,14 @@ class LoginPage extends StatelessWidget {
                             },
                           ),
                         ),
-                        FlatButton(
-                          child: Text(
-                            "Forgot Password",
-                            style: TextStyle(
-                                color: Colors.blueAccent, fontSize: 18),
-                          ),
-                          onPressed: () {},
-                        ),
+//                        FlatButton(
+//                          child: Text(
+//                            "Forgot Password",
+//                            style: TextStyle(
+//                                color: Colors.blueAccent, fontSize: 18),
+//                          ),
+//                          onPressed: () {},
+//                        ),
                       ],
                     ),
                   ),
